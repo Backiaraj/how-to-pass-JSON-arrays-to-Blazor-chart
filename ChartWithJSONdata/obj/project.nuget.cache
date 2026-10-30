@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWqlf/U6ItM=",
+  "success": true,
+  "projectFilePath": "/workspace/how-to-pass-json-arrays-to-blazor-chart/ChartWithJSONdata/ChartWithJSONdata.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.14/microsoft.aspnetcore.app.internal.assets.10.0.14.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.blazor.charts/35.1.42/syncfusion.blazor.charts.35.1.42.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.blazor.core/35.1.42/syncfusion.blazor.core.35.1.42.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.blazor.data/35.1.42/syncfusion.blazor.data.35.1.42.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.blazor.datavizcommon/35.1.42/syncfusion.blazor.datavizcommon.35.1.42.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.blazor.themes/35.1.42/syncfusion.blazor.themes.35.1.42.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.excelexport.net.core/35.1.42/syncfusion.excelexport.net.core.35.1.42.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.licensing/35.1.42/syncfusion.licensing.35.1.42.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.pdfexport.net.core/35.1.42/syncfusion.pdfexport.net.core.35.1.42.nupkg.sha512",
+    "/root/.nuget/packages/syncfusion.telemetry/35.1.42/syncfusion.telemetry.35.1.42.nupkg.sha512"
+  ],
+  "logs": []
+}
